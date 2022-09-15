@@ -144,7 +144,10 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 
 - Yakında..
 
+
 ### NOTLAR!!!:
+
+---
 
 - Cloud’da çalışan tüm yapay zeka uygulama ve modelleri NSFW içerik üretilmesini engelleyen filtreler kullanıyor. Eğer Google Colab kullanır ya da modelleri kendi bilgisayarınızda çalıştırırsanız bu filtreleri editlemek mümkün. Google Colab notebook’una aşağıdaki satır kodu yapıştırırak filtreleri kapatabilirsiniz.
     
