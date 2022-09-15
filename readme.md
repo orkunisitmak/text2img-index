@@ -139,6 +139,7 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 - [Amazon AWS Serverinde Stable Diffusion Çalıştırma](https://www.youtube.com/watch?v=C20XUPbTdE4)
 - [Generating Art using Stable Diffusion](https://www.youtube.com/watch?v=0zQyCihHjQU)
 - [Google Colab Notebook’a Google VM Instance Bağlama (daha hızlı çalıştırmak için)](https://www.youtube.com/watch?v=VsOb2W7AOoo)
+- [Fotoğraflarınızın Işığını Değiştirin](https://www.youtube.com/watch?v=-XSoX5KBlcY)
 
 ### Makaleler:
 
