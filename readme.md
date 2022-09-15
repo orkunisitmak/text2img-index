@@ -4,7 +4,7 @@ Yazıdan görsel üretebileceğiniz, üretim öncesinde ya da sonrasında işini
 
 Dalle2, Midjourney, Stable Diffusion, Hugging Face gibi kolaydan zora farklı alternatifleri aşağıda sizlerle paylaşacağım.
 
-![Untitled](www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faf54fdfe-fc42-4686-9348-55523b7e5b7f%2FUntitled.png?table=block&id=12435858-deea-40bb-96c2-c42f907b9942&spaceId=0cc681d0-62fa-4e23-a8c5-f7ada6f36250&width=2000&userId=4c7b52c3-0f95-492c-964b-ce8362cbf8f9&cache=v2)
+![image](https://user-images.githubusercontent.com/68860338/190371681-cc229b7b-7e28-428c-9071-bce538b42180.png)
 
 ## Contents
 
@@ -45,19 +45,16 @@ PROMPT:	super macro of a glass spider sitting on a flower, in the forest, Fantas
 
 - [DreamStudio](https://beta.dreamstudio.ai/dream) - Stable Diffusion cloud (en güncel sürüm ve bence en iyi ve en kolay çalışanı)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c7b82d0-3a02-4844-95f0-41c19a27224d/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/68860338/190371772-45aa3f0c-6067-4571-a0c2-b9de13e1afd9.png)
     
 
 - [Midjourney](https://www.notion.so/Text2img-Yapay-Zeka-Index-e966037bc2284d2180440abc16dfbbb3) - Discord kanalına girip bota mesaj atarak görsel oluşturuyorsunuz
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5aa40b72-adee-4bd2-9060-1750e2ee2e14/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/028b645e-f633-4353-a2e7-d8c3f219485f/Untitled.png)
-    
+
+   ![3444081242_a_picture_of_a_rainbow_and_a_tree_by_David_Gilmour_Blythe__highly_detailed__trending_on_artstation__4k copy](https://user-images.githubusercontent.com/68860338/190380660-9990cd3f-ea3c-4d3c-b052-61c736d231fc.jpg)
 
 - [Dalle2](https://labs.openai.com/) - OpenAi tarafından geliştirilen, cloudda çalışan ve üretim başı kredi ödemeli bir uygulama
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7680ce10-5623-45dc-9178-909d79c5b84d/Untitled.png)
+   ![image](https://user-images.githubusercontent.com/68860338/190371928-78b94a2b-e632-4aff-a391-fd4eb774a4dd.png)
     
 
 - [Night Cafe](https://nightcafe.studio/) - Yine Stable Diffusion modeli kullanan bir web uygulaması
@@ -92,7 +89,8 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7886c95-888c-4697-886e-c94d8e4b867f/Untitled.png)
+![3444081242_a_picture_of_a_rainbow_and_a_tree_by_David_Gilmour_Blythe__highly_detailed__trending_on_artstation__4k copy](https://user-images.githubusercontent.com/68860338/190373385-78330750-ae49-44d1-a608-d9f9a7be5214.jpg)
+
 
 - [Stable Diffusion img2img](https://huggingface.co/spaces/fffiloni/stable-diffusion-img2img) - Cloud’da çalışan görsel ve komut girerek farklı görseller üretmenizi sağlayan bir araç
 - [Stable Diffusion + Web GUI](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)  Google Colab
@@ -127,7 +125,7 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 - [Gigapixel](https://www.topazlabs.com/gigapixel-ai) - Harici bir uygulama. Windows, Mac’te çalışıyor. Çözünürlük yükseltme, görsel ya da videolardaki bozuklukları giderme, eski fotoğrafları iyileştirme gibi alanlarda kullanılabilir.
 - [Stable Diffusion Image Variation](https://replicate.com/lambdal/stable-diffusion-image-variation) - Bir görselden farklı görseller oluşturma aracı
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c205bd16-797f-4624-be72-f0e3dc181ea7/Untitled.png)
+    ![image](https://user-images.githubusercontent.com/68860338/190380756-c5e0c0e7-749b-44ec-a0c0-d0da2a97c7c1.png)
     
 
 ### Eğitim
