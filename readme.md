@@ -141,6 +141,7 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 - [Generating Art using Stable Diffusion](https://www.youtube.com/watch?v=0zQyCihHjQU)
 - [Google Colab Notebook’a Google VM Instance Bağlama (daha hızlı çalıştırmak için)](https://www.youtube.com/watch?v=VsOb2W7AOoo)
 - [Fotoğraflarınızın Işığını Değiştirin](https://www.youtube.com/watch?v=-XSoX5KBlcY)
+- [Stable Diffusion(NSFW)](https://www.kaggle.com/code/josepc/stable-diffusion-nsfw/notebook)
 
 ### Makaleler:
 
