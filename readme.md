@@ -124,6 +124,7 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 - [GFPGAN](https://replicate.com/tencentarc/gfpgan) - Bozuk yüzleri ve cildi düzeltme, çözünürlük yükseltme
 - [Gigapixel](https://www.topazlabs.com/gigapixel-ai) - Harici bir uygulama. Windows, Mac’te çalışıyor. Çözünürlük yükseltme, görsel ya da videolardaki bozuklukları giderme, eski fotoğrafları iyileştirme gibi alanlarda kullanılabilir.
 - [Stable Diffusion Image Variation](https://replicate.com/lambdal/stable-diffusion-image-variation) - Bir görselden farklı görseller oluşturma aracı
+- [Görsellerinizin ışığını desğiştirin](https://clipdrop.co/relight) - Fotoğraflarınızın ışıklandırmasını değiştirebileceğiniz harika bir uygulama
     
     ![image](https://user-images.githubusercontent.com/68860338/190380756-c5e0c0e7-749b-44ec-a0c0-d0da2a97c7c1.png)
     
