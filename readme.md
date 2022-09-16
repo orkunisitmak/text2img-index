@@ -145,7 +145,7 @@ Aşağıdaki araçları kullanarak metinle animasyonlu videolar oluşturabilirsi
 
 ### Makaleler:
 
-- Yakında..
+- [Tarif Ettiğiniz Her Görüntüyü Hayata Geçiren Yapay Zeka | DALL-E][(https://medium.com/@serhatderya/tarif-etti%C4%9Finiz-her-g%C3%B6r%C3%BCnt%C3%BCy%C3%BC-hayata-ge%C3%A7iren-yapay-zeka-dall-e-a72a59c46a1e)
 
 
 ### NOTLAR!!!:
